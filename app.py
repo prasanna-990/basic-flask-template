@@ -8,10 +8,10 @@ DEVELOPMENT_ENV  = True
 app = Flask(__name__)
 
 app_data = {
-    "name":         "Peter's Starter Template for a Flask Web App",
+    "name":         "Prasanna's Starter Template for a Flask Web App",
     "description":  "A basic Flask app using bootstrap for layout",
-    "author":       "Peter Simeth",
-    "html_title":   "Peter's Starter Template for a Flask Web App",
+    "author":       "Prasanna Palle Bala",
+    "html_title":   "Prasanna's Starter Template for a Flask Web App",
     "project_name": "Starter Template",
     "keywords":     "flask, webapp, template, basic"
 }
